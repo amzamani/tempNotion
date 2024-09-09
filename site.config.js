@@ -9,12 +9,12 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'ToffeeMoney',
-  domain: 'toffeemoney.com',
+  name: 'AskFromData',
+  domain: 'askfromdata.com',
   author: 'Zamani Tech Ventures Pvt Ltd',
 
   // open graph metadata (optional)
-  description: 'ToffeeMoney: Track your spending and boost your savings.',
+  description: 'AskFromData: making data analysis accessible to everyone',
   // socialImageTitle: 'Islem Maboud Aka CoderOne',
   // socialImageSubtitle: 'Hello World! 👋',
 
@@ -22,6 +22,9 @@ module.exports = {
   // twitter: 'amzamanidotme',
   // github: 'amzamani',
   // linkedin: 'amzamani',
+  twitter: 'znap_in',
+  // github: '',
+  linkedin: '/company/znap-products/',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
